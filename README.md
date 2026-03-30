@@ -50,13 +50,19 @@ cat("Adelaida tiene $", round(fv_adelaida, 2), " a los 55 años.\n")
 
 ---
 
-## Análisis de Resultados
+##Ejecutar
 
-El ejercicio demuestra un concepto financiero importante: **el poder del tiempo en las inversiones**.
+En terminal:
 
-- **Beatriz** aprovechó el tiempo realizando aportaciones tempranas, aunque fueron por menos años. Su dinero tuvo 30 años para crecer al 10% anual.
-- **Adelaida** realizó aportaciones durante más años (30), pero comenzó más tarde.
+```bash
+Rscript TALLER.R
+```
 
-### Conclusión
+## Salida esperada
 
-Este ejercicio ilustra por qué es importante comenzar a ahorrar desde temprano, incluso si los montos iniciales son pequeños. El interés compuesto favorece a quien comienza antes, permitiendo que el dinero trabaje durante más tiempo.
+Ejecutando `TALLER.R` deberías ver algo como:
+
+```
+¿Cuánto dinero tiene cada una a los 55 años?
+Beatriz tiene $ 364200  a los 55 años.
+Adelaida tiene $ 361886.8  a los 55 años.
