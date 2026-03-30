@@ -50,7 +50,7 @@ cat("Adelaida tiene $", round(fv_adelaida, 2), " a los 55 años.\n")
 
 ---
 
-##Ejecutar
+## Ejecutar
 
 En terminal:
 
