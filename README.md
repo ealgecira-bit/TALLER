@@ -1,6 +1,5 @@
 # TALLER - Punto 6
 
-## Problema Financiero: Valor Futuro de Inversiones
 
 ### Enunciado del Problema
 
